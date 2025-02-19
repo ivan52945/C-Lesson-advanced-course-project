@@ -1,6 +1,6 @@
 TARGET = square
 
-FLAGS = -Wall -std=c99 -lncurses -Iheaders
+FLAGS = -Wall -std=c99 -Iheaders
 
 RELEASE_PREF = release
 SRC_PREF = sources
